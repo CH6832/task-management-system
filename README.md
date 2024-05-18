@@ -79,13 +79,9 @@ php artisan serve
 
 ### Read the docs
 
-0. Getting started with `http://127.0.0.1:8000/docs/getting-started`
+0. [Getting started with `http://127.0.0.1:8000/docs/getting-started`](resources/docs/getting-started.md)
 
-![Getting started](storage/app/public/images/docs-getting-started.png)
-
-1. Handle tasks with `http://127.0.0.1:8000/docs/manage-tasks`
-
-![Getting started](storage/app/public/images/docs-manage-tasks.png)
+1. [Handle tasks with `http://127.0.0.1:8000/docs/manage-tasks`](resources/docs/manage-tasks.md)
 
 ### Run tests:
 
