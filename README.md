@@ -25,7 +25,6 @@ The Task Manager Application is a simple yet powerful task management system bui
     ├── .env.example - example environment configuration file, serving as a template for creating the actual .env file
     ├── .gitattributes - configuration file for Git, specifying how certain files should be treated in version control
     ├── artisan - command-line interface for interacting with the Laravel application, allowing for tasks such as running migrations, generating code, and clearing caches
-    ├── CODE_OF_CONDUCT.md - contains the code of conduct of the entire project
     ├── composer.json -  configuration file for Composer, defining the project's dependencies and other metadata
     ├── composer.lock - contains information about the exact versions of dependencies installed, ensuring consistent installations across different environments
     ├── COPYRIGHT - containing copyright information or license details for the project
